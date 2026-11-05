@@ -16,7 +16,7 @@ Integrantes:
 ### Informe
 [Informe Lab-10](Laboratorio_10_ARSW_mejorado.pdf)
 
-### Informe
+### Video
 [Video Lab-10](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/esteban_valente-a_mail_escuelaing_edu_co/IQC2nUdU5nzZQo4ypcvBSdHnAR6sakb1xqxjGsqhbOeDJKE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=OTa7yc)
 
 ### Dependencias
