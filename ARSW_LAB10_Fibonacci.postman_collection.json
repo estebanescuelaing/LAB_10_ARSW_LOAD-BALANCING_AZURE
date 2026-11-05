@@ -1,0 +1,61 @@
+{
+  "info": {
+    "name": "ARSW_LAB10_Fibonacci",
+    "description": "Coleccion de pruebas HTTP para Azure Function Fibonacci.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Fibonacci - POST",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"nth\": 100\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://func-arsw-fibonacci-gucycucubfgrc3gh.mexicocentral-01.azurewebsites.net/api/Fibonacci",
+          "protocol": "https",
+          "host": [
+            "func-arsw-fibonacci-gucycucubfgrc3gh",
+            "mexicocentral-01",
+            "azurewebsites",
+            "net"
+          ],
+          "path": [
+            "api",
+            "Fibonacci"
+          ]
+        }
+      },
+      "event": [
+        {
+            "listen": "test",
+            "script": {
+            "type": "text/javascript",
+            "exec": [
+                "pm.test('La respuesta HTTP es 200', function () {",
+                "    pm.response.to.have.status(200);",
+                "});",
+                "pm.test('El resultado de Fibonacci para nth=100 es correcto', function () {",
+                "    pm.expect(pm.response.text()).to.eql('354224848179261915075');",
+                "});"
+            ]
+            }
+        }
+        ],
+      "response": []
+    }
+  ]
+}

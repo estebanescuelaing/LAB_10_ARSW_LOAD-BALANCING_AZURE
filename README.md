@@ -3,6 +3,20 @@
 
 ## Escalamiento en Azure con Maquinas Virtuales, Sacale Sets y Service Plans
 
+Escuela Colombiana de Ingeniería Julio Garavito Arquitecturas de Software (ARSW)
+
+Integrantes:
+
+* Esteban Valente Arenas
+* Keyla Yunuette Serna Illescas
+
+### GitHub
+[Lab_10_ARSW_LOAD-BALANCING_AZURE](https://github.com/estebanescuelaing/LAB_10_ARSW_LOAD-BALANCING_AZURE.git)
+
+### Informe
+[Informe Lab-10](https://github.com/estebanescuelaing/LAB_10_ARSW_LOAD-BALANCING_AZURE.git)
+
+
 ### Dependencias
 * Cree una cuenta gratuita dentro de Azure. Para hacerlo puede guiarse de esta [documentación](https://azure.microsoft.com/es-es/free/students/). Al hacerlo usted contará con $100 USD para gastar durante 12 meses.
 Antes de iniciar con el laboratorio, revise la siguiente documentación sobre las [Azure Functions](https://www.c-sharpcorner.com/article/an-overview-of-azure-functions/)
