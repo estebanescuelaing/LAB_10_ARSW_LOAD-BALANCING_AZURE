@@ -14,7 +14,7 @@ Integrantes:
 [Lab_10_ARSW_LOAD-BALANCING_AZURE](https://github.com/estebanescuelaing/LAB_10_ARSW_LOAD-BALANCING_AZURE.git)
 
 ### Informe
-[Informe Lab-10](https://github.com/estebanescuelaing/LAB_10_ARSW_LOAD-BALANCING_AZURE.git)
+[Informe Lab-10](Laboratorio_10_ARSW_mejorado.pdf)
 
 
 ### Dependencias
